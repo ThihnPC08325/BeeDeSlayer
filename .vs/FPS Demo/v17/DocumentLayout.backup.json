@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPS Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|d:\\fps demo\\assets\\code\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|d:\\fps demo\\assets\\code\\map4_boss\\bosshealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\map4_boss\\bosshealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|d:\\fps demo\\assets\\code\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|d:\\fps demo\\assets\\code\\events\\audioeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\events\\audioeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\player\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\player\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\events\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\events\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\weapon\\switchingweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\weapon\\switchingweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\player\\defensesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\player\\defensesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\enemy\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\enemy\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\weapon\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\weapon\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\weapon\\argun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\weapon\\argun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\enemy\\itemdropmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\enemy\\itemdropmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\items\\itemspoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\items\\itemspoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\weapon\\bulletpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\weapon\\bulletpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\items\\ammoup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\items\\ammoup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\items\\healplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\items\\healplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\enemy\\melee\\enemymeleehealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\enemy\\melee\\enemymeleehealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\enemy\\melee\\meleeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\enemy\\melee\\meleeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\enemy\\enemydodgebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\enemy\\enemydodgebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\enemy\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\enemy\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPS Demo\\Assets\\Code\\DefenseSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Code\\DefenseSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|D:\\FPS Demo\\assets\\code\\enemy\\melee\\meleeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C270B53B-82FF-334B-5665-B6621FEC0E4B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\enemy\\melee\\meleeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Audio\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Audio\\AudioManager.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Audio\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Code\\Audio\\AudioManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAL0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:11:36.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Enemy\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Enemy\\EnemyHealth.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Enemy\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Code\\Enemy\\EnemyHealth.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:44:34.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BossHealth.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Map4_Boss\\BossHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Map4_Boss\\BossHealth.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Map4_Boss\\BossHealth.cs",
+              "RelativeToolTip": "Assets\\Code\\Map4_Boss\\BossHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:37:56.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudioEventHandler.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Events\\AudioEventHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Events\\AudioEventHandler.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Events\\AudioEventHandler.cs",
+              "RelativeToolTip": "Assets\\Code\\Events\\AudioEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:13:49.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Enemy\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Enemy\\EnemySpawner.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Enemy\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Code\\Enemy\\EnemySpawner.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAUwI0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:20:39.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemDropManager.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Enemy\\ItemDropManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Enemy\\ItemDropManager.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Enemy\\ItemDropManager.cs",
+              "RelativeToolTip": "Assets\\Code\\Enemy\\ItemDropManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAC4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:41:50.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Enemy\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Enemy\\EnemyController.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Enemy\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Code\\Enemy\\EnemyController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAHQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:36:41.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ARGun.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Weapon\\ARGun.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Weapon\\ARGun.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Weapon\\ARGun.cs",
+              "RelativeToolTip": "Assets\\Code\\Weapon\\ARGun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:59:22.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Weapon\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Weapon\\Bullet.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Weapon\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Code\\Weapon\\Bullet.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAG4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:28:34.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Player\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Player\\CameraController.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Player\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Code\\Player\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:10:56.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameEvents.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Events\\GameEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Events\\GameEvents.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Events\\GameEvents.cs",
+              "RelativeToolTip": "Assets\\Code\\Events\\GameEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:38:26.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DefenseSystem.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Player\\DefenseSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Player\\DefenseSystem.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Player\\DefenseSystem.cs",
+              "RelativeToolTip": "Assets\\Code\\Player\\DefenseSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:04:24.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SwitchingWeapon.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Weapon\\SwitchingWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Weapon\\SwitchingWeapon.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Weapon\\SwitchingWeapon.cs",
+              "RelativeToolTip": "Assets\\Code\\Weapon\\SwitchingWeapon.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:20:51.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "enemyBullet.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Enemy\\enemyBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Enemy\\enemyBullet.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Enemy\\enemyBullet.cs",
+              "RelativeToolTip": "Assets\\Code\\Enemy\\enemyBullet.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAABBwDQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:23:13.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ItemsPoolManager.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Items\\ItemsPoolManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Items\\ItemsPoolManager.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Items\\ItemsPoolManager.cs",
+              "RelativeToolTip": "Assets\\Code\\Items\\ItemsPoolManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:01:23.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AmmoUp.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Items\\AmmoUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Items\\AmmoUp.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Items\\AmmoUp.cs",
+              "RelativeToolTip": "Assets\\Code\\Items\\AmmoUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:54:33.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BulletPool.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Weapon\\BulletPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Weapon\\BulletPool.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Weapon\\BulletPool.cs",
+              "RelativeToolTip": "Assets\\Code\\Weapon\\BulletPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:38:07.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HealPlayer.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Items\\HealPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Items\\HealPlayer.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Items\\HealPlayer.cs",
+              "RelativeToolTip": "Assets\\Code\\Items\\HealPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:07:13.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnemyAttack.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Enemy\\EnemyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Enemy\\EnemyAttack.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Enemy\\EnemyAttack.cs",
+              "RelativeToolTip": "Assets\\Code\\Enemy\\EnemyAttack.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:21:36.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EnemyMeleeHealth.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Enemy\\Melee\\EnemyMeleeHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Enemy\\Melee\\EnemyMeleeHealth.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Enemy\\Melee\\EnemyMeleeHealth.cs",
+              "RelativeToolTip": "Assets\\Code\\Enemy\\Melee\\EnemyMeleeHealth.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:19:36.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MeleeWeapon.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Enemy\\Melee\\MeleeWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Enemy\\Melee\\MeleeWeapon.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Enemy\\Melee\\MeleeWeapon.cs",
+              "RelativeToolTip": "Assets\\Code\\Enemy\\Melee\\MeleeWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:59:36.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Enemy\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Enemy\\EnemyManager.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Enemy\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\Code\\Enemy\\EnemyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:57:14.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EnemyDodgeBullet.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Enemy\\EnemyDodgeBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Enemy\\EnemyDodgeBullet.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Enemy\\EnemyDodgeBullet.cs",
+              "RelativeToolTip": "Assets\\Code\\Enemy\\EnemyDodgeBullet.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:15:44.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DefenseSystem.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\DefenseSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\DefenseSystem.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\DefenseSystem.cs",
+              "RelativeToolTip": "Assets\\Code\\DefenseSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:38:10.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MeleeAttack.cs",
+              "DocumentMoniker": "D:\\FPS Demo\\Assets\\Code\\Enemy\\Melee\\MeleeAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Enemy\\Melee\\MeleeAttack.cs",
+              "ToolTip": "D:\\FPS Demo\\Assets\\Code\\Enemy\\Melee\\MeleeAttack.cs",
+              "RelativeToolTip": "Assets\\Code\\Enemy\\Melee\\MeleeAttack.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:17:07.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
